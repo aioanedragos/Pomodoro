@@ -1,0 +1,58 @@
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.AssemblyReference.cache
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\MainWindow.g.cs
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\SettingsWindow.g.cs
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\App.g.cs
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer_Content.g.cs
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer_MarkupCompile.cache
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer_MarkupCompile.lref
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_AlarmBeep.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Beeps.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Bell1.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Bell2.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_BicycleBell.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Birdcall.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_CarHorn.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_ClownHorn.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_CockCrow.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Cuckoo.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_DrumCymbalCrash.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Fanfare.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Music1.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Music2.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Music3.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_PartyHorn.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Percussion.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_PianoMusic.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_RingTone.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Satellite.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_SchoolBell.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_ToyNoisemakerHonk.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Victory.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_Whistle.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_WindChimes.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_WindUp.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\alarmSounds\alm_NoneAlarm.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_Classroom.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_CofficeShop.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_FastTicking.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_FireBurning.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_Library.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_Mute.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_OceanShore.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_Rain.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_Stream.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_Ticking.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_Wilderness.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_WindThroughTrees.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Assets\Sounds\workingSounds\bgm_WindWithCrickets.mp3
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Pomodoro Timer.exe.config
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Pomodoro Timer.exe
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\bin\Debug\Pomodoro Timer.pdb
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\MainWindow.baml
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\SettingsWindow.baml
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.g.resources
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro_Timer.Properties.Resources.resources
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.GenerateResource.cache
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.CoreCompileInputs.cache
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.exe
+D:\Pomodoro\Pomodoro-Timer\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.pdb
